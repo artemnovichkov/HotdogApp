@@ -2,7 +2,7 @@
 
 Silicon Valley's iconic "Hotdog or Not Hotdog" detector — built with Apple's on-device Foundation Models (iOS 27).
 
-![HotdogApp in action](Screenshots/hotdog-result.png)
+<img src="Screenshots/hotdog-result.png" width="300" />
 
 ## Features
 
