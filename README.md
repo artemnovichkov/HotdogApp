@@ -18,7 +18,7 @@ Silicon Valley's iconic "Hotdog or Not Hotdog" detector — built with Apple's o
 
 - iOS 27+
 - Apple Intelligence enabled on device (Settings → Apple Intelligence & Siri)
-- Xcode 26+
+- Xcode 27+
 
 ## How it works
 
@@ -44,3 +44,7 @@ struct HotdogResult {
 | `ContentView.swift` | Main UI — photo card, glass buttons, result badge |
 | `CameraView.swift` | `UIImagePickerController` wrapped for SwiftUI |
 | `ConfettiView.swift` | Hotdog emoji particle system for the win state |
+
+## Author
+
+Artem Novichkov, https://artemnovichkov.com
